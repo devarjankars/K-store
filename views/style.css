@@ -1,0 +1,12 @@
+.container{
+    width: 300;
+    height :300;
+    padding: 20px 30px;;
+    border-radius: 10px 20px;
+    background-color:yellowgreen;
+}
+html body{
+    height: 100%;
+    width: 100%;
+    
+}
